@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566740844 source:c:\users\jeanp\documents\estudos\projetos c\l4ex06_peso_menor\main.c
+	<stdio.h>
+	<stdlib.h>
+
